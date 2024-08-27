@@ -10,7 +10,7 @@ To integrate GiTag into your Android project, follow these steps:
 
 1. **Add the AAR file**
 
-   Place the `gitag-release.aar` file in the `libs` directory of your project.
+   Place the [`gitag-release.aar`](https://github.com/kodeflap/GiTag-/tree/main/app/libs) file in the `libs` directory of your project.
 
    ```gradle
    implementation(files("libs/gitag-release.aar"))
